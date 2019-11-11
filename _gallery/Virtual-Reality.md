@@ -1,10 +1,10 @@
-+author: NestorasKosmidis
-+title: Virtual-Reality
-+image_url: Virtual Reality.jpg
-+caption: 'Εικονική πραγματικότητα (αγγλικά: virtual reality ή VR) ονομάζεται η προσομοίωση ενός πραγματικού η φανταστικού περιβάλλοντος από έναν υπολογιστή.
++ author: NestorasKosmidis
++ title: Virtual-Reality
++ image_url: Virtual Reality.jpg
++ caption: 'Εικονική πραγματικότητα (αγγλικά: virtual reality ή VR) ονομάζεται η προσομοίωση ενός πραγματικού η φανταστικού περιβάλλοντος από έναν υπολογιστή.
 Η τρέχουσα τεχνολογία VR χρησιμοποιεί συχνά ακουστικά εικονικής πραγματικότητας ή περιβάλλοντα πολλαπλών προβολών, μερικές φορές σε συνδυασμό με φυσικά περιβάλλοντα ή σκηνικά, για τη δημιουργία εικόνων, ήχων και άλλων αισθήσεων που προσομοιώνουν τη φυσική παρουσία ενός χρήστη σε ένα εικονικό ή φανταστικό περιβάλλον.'
-+license_url: "https://www.af.mil/News/Photos/igphoto/2001865267/"
-+license_text: "U.S. Airforce"
-+tags: 
++ license_url: "https://www.af.mil/News/Photos/igphoto/2001865267/"
++ license_text: "U.S. Airforce"
++ tags: 
       -Virtual-Reality
 
